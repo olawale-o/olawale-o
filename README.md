@@ -1,8 +1,8 @@
 # Hello I'm Olawale
 
-I'm a Full-stack developer who is passionate about solving problems using programming technologies. I enjoy writing clean and maintainable codes.
-
-I'm currently studying at Microverse, an online school for remote software developers. Learning to work by collaborating and pair-programming with students around the world.
+- 🔭 I’m currently working on becomming a Software developer
+- 💬 Ask me about football, politics and history
+- 📫 How to reach me: [Email](omoogunolawale@gmail.com)
 
 ### Languages, Frameworks and Libraries
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
