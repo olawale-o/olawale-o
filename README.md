@@ -4,7 +4,7 @@
 - 💬 Ask me about football, politics and history
 - 📫 How to reach me: [Email](omoogunolawale@gmail.com)
 
-### Languages, Frameworks and Libraries
+### Languages, Frameworks, Libraries and Tools
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <br>
 <br>
@@ -12,6 +12,12 @@
 <br>
 <br>
 <img alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/flutter-%230175C2.svg?style=for-the-badge&logo=flutter&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
+<br>
+<br>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="NETLIFY" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="HEROKU" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT />
+
 
 ### Statistics
 
