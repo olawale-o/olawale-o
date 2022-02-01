@@ -1,7 +1,8 @@
 # Hello I'm Olawale
 
-- 🔭 I’m currently working on becomming a Software developer
-- 💬 Ask me about football, politics and history
+- 🔭 I’m Software developer looking for my next role in strong technical team.
+- Recently obtained my Full-stack Developer certificate at Microverse
+- 💬 Ask me about Tech, football, politics and history
 - 📫 How to reach me: [Email](omoogunolawale@gmail.com)
 
 ### Languages, Frameworks, Libraries and Tools
